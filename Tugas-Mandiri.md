@@ -4,7 +4,7 @@
 
 ## 1. Pikirkan Satu Situasi Yang Membuat Saya Tergoda Menggunakan AI
 
-- Situasi Yang Membuat Saya Tergoda Menggunakan AI Adalah Ketika Saya Di Berikan Tugas Coding Oleh Mentor Saya Dan Kalau Materi Yang Mentor Saya Kasih Itu Yang Saya Sulit Pahami.Terkadang Saya Langsung Menggunakan AI Untuk Membuat Seluruh Tugas Yang Di Berikan Oleh Mentor,Dan Saya Tidak Mencoba Mengerjakannya Sendiri.
+- Situasi Yang Membuat Saya Tergoda Menggunakan AI Adalah Ketika Saya Di Berikan Tugas Coding Oleh Mentor Saya Dan Kalau Materi Yang Mentor Saya Kasih Itu Yang Saya Sulit Pahami.Terkadang Saya Langsung Menggunakan AI Untuk Membuat Seluruh Tugas Yang Di Berikan Oleh Mentor, Dan lebihnya Lagi Saya Tidak Mencoba Mengerjakannya Sendiri.
 
 ## 2. Risiko Jangka Panjang bagi Diri Saya
 
